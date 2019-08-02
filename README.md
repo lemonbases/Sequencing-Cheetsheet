@@ -30,3 +30,5 @@ Source: [https://emea.illumina.com/techniques/sequencing/ngs-library-prep/librar
 **[DNA methods overview](https://github.com/lemonbases/Sequencing-Cheetsheet/blob/master/dna-sequencing-methods-review-web.pdf)**
 
 **[RNA methods overview](https://github.com/lemonbases/Sequencing-Cheetsheet/blob/master/rna-sequencing-methods-review-web.pdf)**
+
+**[Detail](https://github.com/lemonbases/Sequencing-Cheetsheet/blob/master/comparison_methods.md)
