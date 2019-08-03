@@ -28,7 +28,7 @@
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -60,9 +60,9 @@ DNA trapped in agarose plugs is end-repaired and labeled with biotin. The agaros
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -94,7 +94,7 @@ In this method, DNA is biotinylated by a 3’-end tailing reaction with biotin-1
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -128,8 +128,8 @@ RGN-induced DSBs are tagged by integration of blunt-ended DSOs in the genomes of
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -180,9 +180,9 @@ In HTGTS-Rep-seq, genomic DNA from B-cell populations is sonicated and linearly 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -214,12 +214,12 @@ In HTGTS-Rep-seq, genomic DNA from B-cell populations is sonicated and linearly 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-rapid-exome.html">Nextera DNA Exome</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/nextera-mate-pair.html">Nextera Mate Pair Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-rapid-exome.html">Nextera DNA Exome</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/nextera-mate-pair.html">Nextera Mate Pair Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -259,8 +259,8 @@ In HTGTS-Rep-seq, genomic DNA from B-cell populations is sonicated and linearly 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -293,7 +293,7 @@ In HTGTS-Rep-seq, genomic DNA from B-cell populations is sonicated and linearly 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
 </ul>
 </div>
 </div>
@@ -326,7 +326,7 @@ In HTGTS-Rep-seq, genomic DNA from B-cell populations is sonicated and linearly 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -361,8 +361,8 @@ In HTGTS-Rep-seq, genomic DNA from B-cell populations is sonicated and linearly 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -399,11 +399,11 @@ In HTGTS-Rep-seq, genomic DNA from B-cell populations is sonicated and linearly 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit v2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -448,7 +448,7 @@ In HTGTS-Rep-seq, genomic DNA from B-cell populations is sonicated and linearly 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GBR/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GBR/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -488,7 +488,7 @@ In HTGTS-Rep-seq, genomic DNA from B-cell populations is sonicated and linearly 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GBR/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GBR/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -524,10 +524,10 @@ In HTGTS-Rep-seq, genomic DNA from B-cell populations is sonicated and linearly 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-rapid-exome.html">Nextera DNA Exome</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-rapid-exome.html">Nextera DNA Exome</a></li>
 </ul>
 </div>
 </div>
@@ -563,10 +563,10 @@ In HTGTS-Rep-seq, genomic DNA from B-cell populations is sonicated and linearly 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-rapid-exome.html">Nextera DNA Exome</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-rapid-exome.html">Nextera DNA Exome</a></li>
 </ul>
 </div>
 </div>
@@ -603,7 +603,7 @@ In HTGTS-Rep-seq, genomic DNA from B-cell populations is sonicated and linearly 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GBR/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GBR/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -644,10 +644,10 @@ In HTGTS-Rep-seq, genomic DNA from B-cell populations is sonicated and linearly 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-rapid-exome.html">Nextera DNA Exome </a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-rapid-exome.html">Nextera DNA Exome </a></li>
 </ul>
 </div>
 </div>
@@ -684,10 +684,10 @@ In HTGTS-Rep-seq, genomic DNA from B-cell populations is sonicated and linearly 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-rapid-exome.html">Nextera DNA Exome</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-rapid-exome.html">Nextera DNA Exome</a></li>
 </ul>
 </div>
 </div>
@@ -720,10 +720,10 @@ In HTGTS-Rep-seq, genomic DNA from B-cell populations is sonicated and linearly 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-rapid-exome.html">Nextera DNA Exome</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-rapid-exome.html">Nextera DNA Exome</a></li>
 </ul>
 </div>
 </div>
@@ -751,8 +751,8 @@ In HTGTS-Rep-seq, genomic DNA from B-cell populations is sonicated and linearly 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><div>Product Links:</div>
 <ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -787,7 +787,7 @@ In HTGTS-Rep-seq, genomic DNA from B-cell populations is sonicated and linearly 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -824,7 +824,7 @@ In this method, nuclei are purified first by fluorescence-activated cell sorting
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -858,10 +858,10 @@ In this method, nuclei are purified first by fluorescence-activated cell sorting
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-rapid-exome.html">Nextera DNA Exome</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-rapid-exome.html">Nextera DNA Exome</a></li>
 </ul>
 </div>
 </div>
@@ -901,7 +901,7 @@ Using a microfluidics system, the method isolates, amplifies, fragments, and bar
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -935,10 +935,10 @@ Using a microfluidics system, the method isolates, amplifies, fragments, and bar
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-rapid-exome.html">Nextera DNA Exome</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-rapid-exome.html">Nextera DNA Exome</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -974,7 +974,7 @@ Using a microfluidics system, the method isolates, amplifies, fragments, and bar
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -1007,7 +1007,7 @@ Using a microfluidics system, the method isolates, amplifies, fragments, and bar
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -1039,8 +1039,8 @@ In this method, RNA transcripts are treated sequentially with Terminator exonucl
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -1078,7 +1078,7 @@ In this method, RNA transcripts are treated sequentially with Terminator exonucl
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -1116,8 +1116,8 @@ In this method, RNA transcripts are treated sequentially with Terminator exonucl
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -1165,8 +1165,8 @@ In this method, RNA transcripts are treated sequentially with Terminator exonucl
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -1192,7 +1192,7 @@ In this method, RNA transcripts are treated sequentially with Terminator exonucl
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -1228,11 +1228,11 @@ In this method, RNA transcripts are treated sequentially with Terminator exonucl
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/nextera-mate-pair.html">Nextera Mate Pair Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-rapid-exome.html">Nextera DNA Exome</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/nextera-mate-pair.html">Nextera Mate Pair Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-rapid-exome.html">Nextera DNA Exome</a></li>
 </ul>
 </div>
 </div>
@@ -1266,8 +1266,8 @@ In this method, RNA transcripts are treated sequentially with Terminator exonucl
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -1295,8 +1295,8 @@ In this method, RNA transcripts are treated sequentially with Terminator exonucl
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -1344,8 +1344,8 @@ In this method, RNA transcripts are treated sequentially with Terminator exonucl
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GBR/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GBR/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GBR/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GBR/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -1379,7 +1379,7 @@ In this method, RNA transcripts are treated sequentially with Terminator exonucl
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -1414,10 +1414,10 @@ In this method, RNA transcripts are treated sequentially with Terminator exonucl
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a adhocenable="false" href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html" target="_blank">TruSeq Stranded RNA Prep kit</a></li>
+<li><a adhocenable="false" href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html" target="_blank">TruSeq Stranded RNA Prep kit</a></li>
 <li><a adhocenable="false" href="https://support.illumina.com/sequencing/sequencing_kits/pe_dna_sample_prep_kit.html" target="_blank">Paired-End Sample Preparation kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -1458,8 +1458,8 @@ In this method, DNA-protein complexes are crosslinked using formaldehyde. The sa
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -1509,8 +1509,8 @@ In this method, DNA-protein complexes are crosslinked using formaldehyde. The sa
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -1555,8 +1555,8 @@ In this method, DNA-protein complexes are crosslinked using formaldehyde. The sa
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -1615,9 +1615,9 @@ In this method, cells are treated briefly with the methionine surrogate azidohom
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -1657,9 +1657,9 @@ The Chem-seq method uses 2 approaches. In living cells, the biotinylated drug is
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -1707,9 +1707,9 @@ A modified protocol, called advanced or long-read ChIA-PET, has been published b
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_chip_sample_prep_kit.html">TruSeq ChIP-Seq Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_chip_sample_prep_kit.html">TruSeq ChIP-Seq Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -1768,11 +1768,11 @@ In this method, DNA-protein complexes are crosslinked <i>in vivo</i>. Next, samp
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_chip_sample_prep_kit.html">TruSeq ChIP-Seq kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_chip_sample_prep_kit.html">TruSeq ChIP-Seq kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -1819,10 +1819,10 @@ In this method, DNA-protein complexes are crosslinked <i>in vivo</i>. Next, samp
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -1856,8 +1856,8 @@ In this method, DNA-protein complexes are crosslinked <i>in vivo</i>. Next, samp
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -1907,9 +1907,9 @@ In this method, DNA-protein complexes are crosslinked <i>in vivo</i>. Next, samp
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_chip_sample_prep_kit.html">TruSeq ChIP-Seq kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_chip_sample_prep_kit.html">TruSeq ChIP-Seq kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -1960,10 +1960,10 @@ In this method, DNA-protein complexes are crosslinked <i>in vivo</i>. Next, samp
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -2003,9 +2003,9 @@ In this method, DNA-protein complexes are crosslinked briefly <i>in vivo</i> usi
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_chip_sample_prep_kit.html">TruSeq ChIP-seq Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_chip_sample_prep_kit.html">TruSeq ChIP-seq Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -2054,10 +2054,10 @@ In this method, DNA-protein complexes are crosslinked briefly <i>in vivo</i> usi
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -2095,8 +2095,8 @@ In this method, DNA-protein complexes are crosslinked briefly <i>in vivo</i> usi
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -2150,7 +2150,7 @@ A microfluidic flow cell with anchored single-stranded DNA is sequenced by synth
 <div class="row">
 <div class="col-sm-6">
 <ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -2187,9 +2187,9 @@ A microfluidic flow cell with anchored single-stranded DNA is sequenced by synth
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_chip_sample_prep_kit.html">TruSeq ChIP-seq Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_chip_sample_prep_kit.html">TruSeq ChIP-seq Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -2230,10 +2230,10 @@ In this method, newly replicated DNA is labeled with the nucleotide analog EdU, 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -2266,10 +2266,10 @@ MPE-Fe(II) preferentially cleaves the linker DNA between nucleosomes with little
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -2304,10 +2304,10 @@ The protocol uses formaldehyde fixation followed by restriction enzyme digestion
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -2345,10 +2345,10 @@ In this method, native chromatin is treated with M.CviPI, following which the DN
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -2393,10 +2393,10 @@ In this method, native chromatin is treated with M.CviPI, following which the DN
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -2436,10 +2436,10 @@ In this method, native chromatin is treated with M.CviPI, following which the DN
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -2475,8 +2475,8 @@ Genomic DNA is sonicated, size-selected, and purified. After hybridization to th
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -2508,8 +2508,8 @@ Alkali treatment of duplex ribonucleotide-containing DNA results in phosphate-ba
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -2553,10 +2553,10 @@ Alkali treatment of duplex ribonucleotide-containing DNA results in phosphate-ba
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -2600,10 +2600,10 @@ Alkali treatment of duplex ribonucleotide-containing DNA results in phosphate-ba
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -2635,10 +2635,10 @@ Alkali treatment of duplex ribonucleotide-containing DNA results in phosphate-ba
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -2674,10 +2674,10 @@ Alkali treatment of duplex ribonucleotide-containing DNA results in phosphate-ba
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -2723,8 +2723,8 @@ The method relies on the unique property of the restriction enzyme AbaSI to reco
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -2764,8 +2764,8 @@ The ChIP-capturing step is used to obtain a restricted representation of the gen
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/microarray-kits/infinium-methylation-epic.html">Infinium MethylationEPIC Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-rapid-exome.html">Nextera DNA Exome</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/microarray-kits/infinium-methylation-epic.html">Infinium MethylationEPIC Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-rapid-exome.html">Nextera DNA Exome</a></li>
 </ul>
 </div>
 </div>
@@ -2809,7 +2809,7 @@ The ChIP-capturing step is used to obtain a restricted representation of the gen
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><p>Product Link:</p>
 <ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/microarray-kits/infinium-methylation-epic.html">Infinium MethylationEPIC Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/microarray-kits/infinium-methylation-epic.html">Infinium MethylationEPIC Kit</a></li>
 </ul>
 </div>
 </div>
@@ -2849,12 +2849,12 @@ Genomic DNA is bisulfite-converted and subjected to PCR, using primers specific 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/microarray-kits/infinium-methylation-epic.html">Infinium MethylationEPIC Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-dna-pcr-free.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/nextera-xt-dna.html">Nextera XT DNA Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-rapid-exome.html">Nextera DNA Exome</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-nano-dna.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/microarray-kits/infinium-methylation-epic.html">Infinium MethylationEPIC Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-dna-pcr-free.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/nextera-xt-dna.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-rapid-exome.html">Nextera DNA Exome</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-nano-dna.html">TruSeq Nano DNA Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -2888,8 +2888,8 @@ Genomic DNA is bisulfite-converted and subjected to PCR, using primers specific 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/microarray-kits/infinium-methylation-epic.html">Infinium MethylationEPIC Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/microarray-kits/infinium-methylation-epic.html">Infinium MethylationEPIC Kit</a></li>
 </ul>
 </div>
 </div>
@@ -2912,8 +2912,8 @@ Genomic DNA is bisulfite-converted and subjected to PCR, using primers specific 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -2944,12 +2944,12 @@ Genomic DNA is bisulfite-converted and subjected to PCR, using primers specific 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/microarray-kits/infinium-methylation-epic.html">Infinium MethylationEPIC Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-dna-pcr-free.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/nextera-xt-dna.html">Nextera XT DNA Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-rapid-exome.html">Nextera DNA Exome</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-nano-dna.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/microarray-kits/infinium-methylation-epic.html">Infinium MethylationEPIC Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-dna-pcr-free.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/nextera-xt-dna.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-rapid-exome.html">Nextera DNA Exome</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-nano-dna.html">TruSeq Nano DNA Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -2983,8 +2983,8 @@ Genomic DNA is bisulfite-converted and subjected to PCR, using primers specific 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -3007,8 +3007,8 @@ Genomic DNA is bisulfite-converted and subjected to PCR, using primers specific 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -3031,8 +3031,8 @@ Genomic DNA is bisulfite-converted and subjected to PCR, using primers specific 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -3076,9 +3076,9 @@ Genomic DNA is bisulfite-converted and subjected to PCR, using primers specific 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/microarray-kits/infinium-methylation-epic.html">Infinium MethylationEPIC Kit</a></li>
-<li><a adhocenable="false" href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html" target="_blank">TruSeq ChIP-Seq kit</a></li>
-<li><a adhocenable="false" href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-dna-pcr-free.html" target="_blank">Truseq DNA PCR-free library prep kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/microarray-kits/infinium-methylation-epic.html">Infinium MethylationEPIC Kit</a></li>
+<li><a adhocenable="false" href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html" target="_blank">TruSeq ChIP-Seq kit</a></li>
+<li><a adhocenable="false" href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-dna-pcr-free.html" target="_blank">Truseq DNA PCR-free library prep kit</a></li>
 </ul>
 </div>
 </div>
@@ -3118,9 +3118,9 @@ Genomic DNA is bisulfite-converted and subjected to PCR, using primers specific 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/microarray-kits/infinium-methylation-epic.html">Infinium MethylationEPIC Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/nextera-xt-dna.html">Nextera XT DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-rapid-exome.html">Nextera DNA Exome</a>/<a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/nextera-rapid-capture-custom-enrichment.html">Custom Enrichment Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/microarray-kits/infinium-methylation-epic.html">Infinium MethylationEPIC Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/nextera-xt-dna.html">Nextera XT DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-rapid-exome.html">Nextera DNA Exome</a>/<a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/nextera-rapid-capture-custom-enrichment.html">Custom Enrichment Kit</a></li>
 </ul>
 </div>
 </div>
@@ -3161,10 +3161,10 @@ Genomic DNA is bisulfite-converted and subjected to PCR, using primers specific 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/methylation_450_beadchip_kits.html">Infinium HumanMethylation450 Arrays</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_dna_library_prep_kit.html">Nextera DNA Library Prep kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera-rapid-capture-exome-kits.html">Nextera Rapid Capture Exome</a>/<a href="/content/illumina-marketing/emea/en_GB/products/nextera-rapid-capture-custom-enrichment-kit.html">Custom Enrichment Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/methylation_450_beadchip_kits.html">Infinium HumanMethylation450 Arrays</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_dna_library_prep_kit.html">Nextera DNA Library Prep kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera-rapid-capture-exome-kits.html">Nextera Rapid Capture Exome</a>/<a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera-rapid-capture-custom-enrichment-kit.html">Custom Enrichment Kit</a></li>
 </ul>
 </div>
 </div>
@@ -3192,9 +3192,9 @@ Genomic DNA is bisulfite-converted and subjected to PCR, using primers specific 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-nano-dna.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-dna-pcr-free.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/microarray-kits/infinium-methylation-epic.html">Infinium MethylationEPIC Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-nano-dna.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-dna-pcr-free.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/microarray-kits/infinium-methylation-epic.html">Infinium MethylationEPIC Kit</a></li>
 </ul>
 </div>
 </div>
@@ -3235,8 +3235,8 @@ Genomic DNA is bisulfite-converted and subjected to PCR, using primers specific 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/microarray-kits/infinium-methylation-epic.html">Infinium MethylationEPIC Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/microarray-kits/infinium-methylation-epic.html">Infinium MethylationEPIC Kit</a></li>
 </ul>
 </div>
 </div>
@@ -3274,8 +3274,8 @@ Genomic DNA is bisulfite-converted and subjected to PCR, using primers specific 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><p>Product Links:</p>
 <ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -3310,9 +3310,9 @@ Genomic DNA is bisulfite-converted and subjected to PCR, using primers specific 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-nano-dna.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-dna-pcr-free.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/microarray-kits/infinium-methylation-epic.html">Infinium MethylationEPIC Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-nano-dna.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-dna-pcr-free.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/microarray-kits/infinium-methylation-epic.html">Infinium MethylationEPIC Kit</a></li>
 </ul>
 </div>
 </div>
@@ -3354,8 +3354,8 @@ Genomic DNA is bisulfite-converted and subjected to PCR, using primers specific 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><div>Product Links:</div>
 <ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/microarray-kits/infinium-methylation-epic.html">Infinium MethylationEPIC Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-dna-pcr-free.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/microarray-kits/infinium-methylation-epic.html">Infinium MethylationEPIC Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-dna-pcr-free.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -3396,9 +3396,9 @@ Genomic DNA is bisulfite-converted and subjected to PCR, using primers specific 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-nano-dna.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-dna-pcr-free.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/microarray-kits/infinium-methylation-epic.html">Infinium MethylationEPIC Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-nano-dna.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-dna-pcr-free.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/microarray-kits/infinium-methylation-epic.html">Infinium MethylationEPIC Kit</a></li>
 </ul>
 </div>
 </div>
@@ -3436,8 +3436,8 @@ Genomic DNA is bisulfite-converted and subjected to PCR, using primers specific 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><div>Product Links:</div>
 <ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/microarray-kits/infinium-methylation-epic.html">Infinium MethylationEPIC Kit</a></li>
-<li><a adhocenable="false" href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-dna-pcr-free.html" target="_blank">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/microarray-kits/infinium-methylation-epic.html">Infinium MethylationEPIC Kit</a></li>
+<li><a adhocenable="false" href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-dna-pcr-free.html" target="_blank">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -3468,7 +3468,7 @@ Genomic DNA is bisulfite-converted and subjected to PCR, using primers specific 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -3492,8 +3492,8 @@ Genomic DNA is bisulfite-converted and subjected to PCR, using primers specific 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GBR/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GBR/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GBR/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GBR/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -3531,7 +3531,7 @@ Genomic DNA is bisulfite-converted and subjected to PCR, using primers specific 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera-dna.html">Nextera DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera-dna.html">Nextera DNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -3565,11 +3565,11 @@ Genomic DNA is bisulfite-converted and subjected to PCR, using primers specific 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit v2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -3621,7 +3621,7 @@ First, single-stranded RNAs are fragmented using Zn<sup>2+</sup> and size-select
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
 </ul>
 </div>
 </div>
@@ -3665,7 +3665,7 @@ In CLaP, cells of interest are tagged by crosslinking biotin-4-fluorescein (B4F)
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -3706,8 +3706,8 @@ In CLaP, cells of interest are tagged by crosslinking biotin-4-fluorescein (B4F)
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -3747,11 +3747,11 @@ In CLaP, cells of interest are tagged by crosslinking biotin-4-fluorescein (B4F)
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded total RNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-targeted-rna-expression-kits.html">TruSeq Targeted RNA Expression Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded total RNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-targeted-rna-expression-kits.html">TruSeq Targeted RNA Expression Kits</a></li>
 </ul>
 </div>
 </div>
@@ -3790,7 +3790,7 @@ In CLaP, cells of interest are tagged by crosslinking biotin-4-fluorescein (B4F)
 <div class="row">
 <div class="col-sm-6">
 <ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -3829,7 +3829,7 @@ In CLaP, cells of interest are tagged by crosslinking biotin-4-fluorescein (B4F)
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a adhocenable="false" href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html" target="_blank">Nextera XT DNA Library Prep kit</a></li>
+<li><a adhocenable="false" href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html" target="_blank">Nextera XT DNA Library Prep kit</a></li>
 </ul>
 </div>
 </div>
@@ -3873,7 +3873,7 @@ This single-cell sequencing method uses a microfluidic device to compartmentaliz
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -3919,7 +3919,7 @@ This single-cell sequencing method uses a microfluidic device to compartmentaliz
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -3956,11 +3956,11 @@ Thomsen E. R., Mich J. K., Yao Z., Hodge R. D., Doyle A. M., et al. (2016) Fixed
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit v2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -4004,7 +4004,7 @@ Thomsen E. R., Mich J. K., Yao Z., Hodge R. D., Doyle A. M., et al. (2016) Fixed
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
 </ul>
 </div>
 </div>
@@ -4042,7 +4042,7 @@ Rotem A., Ram O., Shoresh N., Sperling R. A., Schnall-Levin M., et al. (2015) Hi
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -4088,7 +4088,7 @@ Rotem A., Ram O., Shoresh N., Sperling R. A., Schnall-Levin M., et al. (2015) Hi
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
 </ul>
 </div>
 </div>
@@ -4133,7 +4133,7 @@ Rotem A., Ram O., Shoresh N., Sperling R. A., Schnall-Levin M., et al. (2015) Hi
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -4171,7 +4171,7 @@ Rotem A., Ram O., Shoresh N., Sperling R. A., Schnall-Levin M., et al. (2015) Hi
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
 </ul>
 </div>
 </div>
@@ -4213,9 +4213,9 @@ Similar methods: CEL-Seq, Drop-seq, MARS-Seq, CytoSeq, inDrop, Hi-SCL.</p>
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-targeted-rna-expression-kits.html">TruSeq Targeted RNA Expression Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-targeted-rna-expression-kits.html">TruSeq Targeted RNA Expression Kits</a></li>
 </ul>
 </div>
 </div>
@@ -4260,7 +4260,7 @@ Similar methods: CEL-Seq, Drop-seq, MARS-Seq, CytoSeq, inDrop, Hi-SCL.</p>
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -4300,7 +4300,7 @@ Similar methods: CEL-Seq, Drop-seq, MARS-Seq, CytoSeq, inDrop, Hi-SCL.</p>
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -4344,7 +4344,7 @@ In this method, single cells are isolated manually under a microscope and lysed.
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
 </ul>
 </div>
 </div>
@@ -4390,9 +4390,9 @@ In this method, single cells are isolated manually under a microscope and lysed.
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Prep kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Sample Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Prep kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Sample Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -4433,7 +4433,7 @@ In this method, single cells are isolated manually under a microscope and lysed.
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GBR/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Prep kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GBR/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Prep kit</a></li>
 </ul>
 </div>
 </div>
@@ -4471,7 +4471,7 @@ In this method, single cells are isolated manually under a microscope and lysed.
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -4513,9 +4513,9 @@ In this method, single cells are isolated manually under a microscope and lysed.
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-targeted-rna-expression-kits.html">TruSeq Targeted RNA Expression Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-targeted-rna-expression-kits.html">TruSeq Targeted RNA Expression Kits</a></li>
 </ul>
 </div>
 </div>
@@ -4560,7 +4560,7 @@ In this method, single cells are isolated manually under a microscope and lysed.
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -4597,7 +4597,7 @@ In this method, single cells are isolated manually under a microscope and lysed.
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
 </ul>
 </div>
 </div>
@@ -4637,7 +4637,7 @@ First-strand cDNA is generated using biotinylated primers that anneal to the con
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
 </ul>
 </div>
 </div>
@@ -4674,9 +4674,9 @@ In this method, a photoactivatable TIVA tag is loaded into cells. Selective phot
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -4721,7 +4721,7 @@ In this method, mRNA libraries are generated by fragmentation and reverse-transc
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Prep kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Prep kit</a></li>
 </ul>
 </div>
 </div>
@@ -4759,9 +4759,9 @@ In this method, RNA is treated with acrylonitrile, while control RNA is untreate
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a adhocenable="false" href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html" target="_blank">TruSeq Nano DNA Library Prep kit</a></li>
-<li><a adhocenable="false" href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html" target="_blank">TruSeq Stranded total RNA library prep kit</a></li>
-<li><a adhocenable="false" href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html" target="_blank">TruSeq DNA PCR-free library prep kit</a></li>
+<li><a adhocenable="false" href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html" target="_blank">TruSeq Nano DNA Library Prep kit</a></li>
+<li><a adhocenable="false" href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html" target="_blank">TruSeq Stranded total RNA library prep kit</a></li>
+<li><a adhocenable="false" href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html" target="_blank">TruSeq DNA PCR-free library prep kit</a></li>
 </ul>
 </div>
 </div>
@@ -4799,9 +4799,9 @@ In this method, RNA is treated with acrylonitrile, while control RNA is untreate
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a adhocenable="false" href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html" target="_blank">TruSeq Small RNA Library Prep kit</a></li>
-<li><a adhocenable="false" href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html" target="_blank">TruSeq Stranded total RNA library prep kit</a></li>
-<li><a adhocenable="false" href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html" target="_blank">TruSeq DNA PCR-Free library prep kit</a></li>
+<li><a adhocenable="false" href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html" target="_blank">TruSeq Small RNA Library Prep kit</a></li>
+<li><a adhocenable="false" href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html" target="_blank">TruSeq Stranded total RNA library prep kit</a></li>
+<li><a adhocenable="false" href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html" target="_blank">TruSeq DNA PCR-Free library prep kit</a></li>
 </ul>
 </div>
 </div>
@@ -4843,12 +4843,12 @@ In this method, RNA is treated with acrylonitrile, while control RNA is untreate
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/ribo-zero-gold-rrna-removal-human-mouse-rat.html">Ribo-Zero Gold rRNA Removal Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded total RNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-targeted-rna-expression-kits.html">TruSeq Targeted RNA Expression Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/ribo-zero-gold-rrna-removal-human-mouse-rat.html">Ribo-Zero Gold rRNA Removal Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded total RNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-targeted-rna-expression-kits.html">TruSeq Targeted RNA Expression Kits</a></li>
 </ul>
 </div>
 </div>
@@ -4887,7 +4887,7 @@ In this method, RNA is treated with acrylonitrile, while control RNA is untreate
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA library Prep kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA library Prep kit</a></li>
 </ul>
 </div>
 </div>
@@ -4959,10 +4959,10 @@ Briefly, samples are poly(A)-selected, treated with DNase, and fragmented. CMC i
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA library Prep kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA library Prep kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -5008,7 +5008,7 @@ Briefly, samples are poly(A)-selected, treated with DNase, and fragmented. CMC i
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
 </ul>
 </div>
 </div>
@@ -5055,11 +5055,11 @@ In this method, RNA-protein complexes are UV-crosslinked and affinity-purified. 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded total RNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-targeted-rna-expression-kits.html">TruSeq Targeted RNA Expression Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded total RNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-targeted-rna-expression-kits.html">TruSeq Targeted RNA Expression Kits</a></li>
 </ul>
 </div>
 </div>
@@ -5131,13 +5131,13 @@ In this method, RNA-protein complexes are UV-crosslinked and affinity-purified. 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-ribo-profile.html">ARTseq/TruSeq Ribo Profile</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/ribo-zero-gold-rrna-removal-human-mouse-rat.html">Ribo-Zero Gold rRNA Removal Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded total RNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-targeted-rna-expression-kits.html">TruSeq Targeted RNA Expression Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-ribo-profile.html">ARTseq/TruSeq Ribo Profile</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/ribo-zero-gold-rrna-removal-human-mouse-rat.html">Ribo-Zero Gold rRNA Removal Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded total RNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-targeted-rna-expression-kits.html">TruSeq Targeted RNA Expression Kits</a></li>
 </ul>
 </div>
 </div>
@@ -5181,12 +5181,12 @@ In this method, RNA-protein complexes are UV-crosslinked and affinity-purified. 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/ribo-zero-gold-rrna-removal-human-mouse-rat.html">Ribo-Zero Gold rRNA Removal Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded total RNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-targeted-rna-expression-kits.html">TruSeq Targeted RNA Expression Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/ribo-zero-gold-rrna-removal-human-mouse-rat.html">Ribo-Zero Gold rRNA Removal Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded total RNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-targeted-rna-expression-kits.html">TruSeq Targeted RNA Expression Kits</a></li>
 </ul>
 </div>
 </div>
@@ -5241,10 +5241,10 @@ In this method, RNA-protein complexes are UV-crosslinked and affinity-purified. 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -5303,7 +5303,7 @@ In this method, RNA-protein complexes are UV-crosslinked and affinity-purified. 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -5346,12 +5346,12 @@ In this method, RNA-protein complexes are UV-crosslinked and affinity-purified. 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/ribo-zero-gold-rrna-removal-human-mouse-rat.html">Ribo-Zero Gold rRNA Removal Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded total RNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-targeted-rna-expression-kits.html">TruSeq Targeted RNA Expression Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/ribo-zero-gold-rrna-removal-human-mouse-rat.html">Ribo-Zero Gold rRNA Removal Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded total RNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-targeted-rna-expression-kits.html">TruSeq Targeted RNA Expression Kits</a></li>
 </ul>
 </div>
 </div>
@@ -5395,7 +5395,7 @@ In this method, RNA-protein complexes are UV-crosslinked and affinity-purified. 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
 </ul>
 </div>
 </div>
@@ -5433,9 +5433,9 @@ In this method, RNA-protein complexes are UV-crosslinked and affinity-purified. 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/molecular-biology-reagents/ribo-zero-gold-rrna-removal-human-mouse-rat.html">Ribo-Zero Gold rRNA Removal Kit (Human/Mouse/Rat)</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/molecular-biology-reagents/ribo-zero-gold-rrna-removal-human-mouse-rat.html">Ribo-Zero Gold rRNA Removal Kit (Human/Mouse/Rat)</a></li>
 </ul>
 </div>
 </div>
@@ -5476,7 +5476,7 @@ In this method, RNA-protein complexes are UV-crosslinked and affinity-purified. 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
 </ul>
 </div>
 </div>
@@ -5521,12 +5521,12 @@ In this method, RNA-protein complexes are UV-crosslinked and affinity-purified. 
 
 <h6>Associated kits:</h6>
 <ul class="kits solutions">
-<li><a adhocenable="false" href="/content/illumina-marketing/emea/en_GB/products/rrna-globin-mrna-removal-kit-selection-guide.html" target="_blank">Ribo-Zero Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Sample Prep Kit</a></li>
-<li><a adhocenable="false" href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html" target="_blank">TruSeq Stranded RNA</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free library prep kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep kit</a></li>
+<li><a adhocenable="false" href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/rrna-globin-mrna-removal-kit-selection-guide.html" target="_blank">Ribo-Zero Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Sample Prep Kit</a></li>
+<li><a adhocenable="false" href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html" target="_blank">TruSeq Stranded RNA</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free library prep kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep kit</a></li>
 </ul>
 
 <h6>Most recent reviews</h6>
@@ -5580,8 +5580,8 @@ In this method, RNA-protein complexes are UV-crosslinked and affinity-purified. 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-stranded-total-rna.html">TruSeq Stranded Total RNA</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/molecular-biology-reagents/ribo-zero-gold-rrna-removal-human-mouse-rat.html">Ribo-Zero Gold rRNA Removal Kit (Human/Mouse/Rat)</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-stranded-total-rna.html">TruSeq Stranded Total RNA</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/molecular-biology-reagents/ribo-zero-gold-rrna-removal-human-mouse-rat.html">Ribo-Zero Gold rRNA Removal Kit (Human/Mouse/Rat)</a></li>
 </ul>
 </div>
 </div>
@@ -5621,8 +5621,8 @@ Briefly, cells are UV-crosslinked at 254 nm and lysed. Anti-RNAPII antibodies ar
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
 </ul>
 </div>
 </div>
@@ -5663,7 +5663,7 @@ Similar methods: HiTS-RAP.</p>
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
 </ul>
 </div>
 </div>
@@ -5749,11 +5749,11 @@ In this method, RNA-protein complexes are immunoprecipitated with antibodies tar
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
-<li><a adhocenable="false" href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html" target="_blank">TruSeq Stranded total RNA library prep kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
+<li><a adhocenable="false" href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html" target="_blank">TruSeq Stranded total RNA library prep kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -5799,12 +5799,12 @@ In this method, RNA-protein complexes are immunoprecipitated with antibodies tar
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/ribo-zero-gold-rrna-removal-human-mouse-rat.html">Ribo-Zero Gold rRNA Removal Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded total RNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-targeted-rna-expression-kits.html">TruSeq Targeted RNA Expression Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/ribo-zero-gold-rrna-removal-human-mouse-rat.html">Ribo-Zero Gold rRNA Removal Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded total RNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-targeted-rna-expression-kits.html">TruSeq Targeted RNA Expression Kits</a></li>
 </ul>
 </div>
 </div>
@@ -5845,8 +5845,8 @@ In this method, RNA-protein complexes are immunoprecipitated with antibodies tar
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/ribo-zero-rrna-removal-human-mouse-rat.html">Ribo-Zero rRNA Removal Kit </a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/ribo-zero-rrna-removal-human-mouse-rat.html">Ribo-Zero rRNA Removal Kit </a></li>
 </ul>
 </div>
 </div>
@@ -5879,10 +5879,10 @@ In this method, RNA-protein complexes are immunoprecipitated with antibodies tar
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded total RNA library prep kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded total RNA library prep kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 <div class="col-sm-6"><ul class="enzymes solutions">
@@ -5923,10 +5923,10 @@ In this method, RNA is treated with CIP followed by 3'-end linker ligation. Next
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded total RNA library prep kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded total RNA library prep kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 <div class="col-sm-6"><ul class="enzymes solutions">
@@ -5966,7 +5966,7 @@ Briefly, cells are lysed and treated with proteinase K to dissociate protein-bou
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA library Prep kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA library Prep kit</a></li>
 </ul>
 </div>
 </div>
@@ -6006,10 +6006,10 @@ Briefly, cells are lysed and treated with proteinase K to dissociate protein-bou
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA library Prep kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded Total RNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA library Prep kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded Total RNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -6049,7 +6049,7 @@ Briefly, NAI-N3 is added to RNA in vivo to mark it selectively for DIBO-biotin t
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA library Prep kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA library Prep kit</a></li>
 </ul>
 </div>
 </div>
@@ -6086,10 +6086,10 @@ Briefly, NAI-N3 is added to RNA in vivo to mark it selectively for DIBO-biotin t
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded total RNA library prep kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded total RNA library prep kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -6129,7 +6129,7 @@ Briefly, NAI-N3 is added to RNA in vivo to mark it selectively for DIBO-biotin t
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/nextera_xt_dna_library_prep_kit.html">Nextera XT DNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -6175,9 +6175,9 @@ In this method, a unique barcode is first added to the 3' end of RNA, and the RN
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -6218,7 +6218,7 @@ Briefly, total RNA is depleted of rRNA, and RNA adapters are ligated to the 5' e
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA library Prep kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA library Prep kit</a></li>
 </ul>
 </div>
 </div>
@@ -6261,7 +6261,7 @@ Briefly, total RNA is depleted of rRNA, and RNA adapters are ligated to the 5' e
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
 </ul>
 </div>
 </div>
@@ -6304,8 +6304,8 @@ First, poly(A)+ mRNAs are isolated from total RNA and partially digested by RNas
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit v2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -6340,8 +6340,8 @@ First, poly(A)+ mRNAs are isolated from total RNA and partially digested by RNas
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit v2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -6380,7 +6380,7 @@ First, poly(A)+ mRNAs are isolated from total RNA and partially digested by RNas
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/by-type/sequencing-kits/library-prep-kits/truseq-chip.html">TruSeq ChIP Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -6422,8 +6422,8 @@ Poly(A) selection is used to isolate mRNA from total RNA, and biotinylated-splin
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit v2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -6464,8 +6464,8 @@ The first cDNA strand is generated by reverse-transcribing total RNA using an ol
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit v2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -6503,7 +6503,7 @@ First, mRNA is isolated from total RNA by poly(A) selection. Next, an oligo(dT)-
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-rna-access-kit.html">TruSeq RNA Access Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-rna-access-kit.html">TruSeq RNA Access Kit</a></li>
 </ul>
 </div>
 </div>
@@ -6548,7 +6548,7 @@ Cells are first treated with DRB to inhibit RNA elongation and arrest RNAPII at 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit v2</a></li>
 </ul>
 </div>
 </div>
@@ -6591,7 +6591,7 @@ Cells are first treated with DRB to inhibit RNA elongation and arrest RNAPII at 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded total RNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded total RNA Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -6628,7 +6628,7 @@ Cells are first treated with DRB to inhibit RNA elongation and arrest RNAPII at 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
 </ul>
 </div>
 </div>
@@ -6668,7 +6668,7 @@ Cells are first treated with DRB to inhibit RNA elongation and arrest RNAPII at 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
 </ul>
 </div>
 </div>
@@ -6707,7 +6707,7 @@ Cells are first treated with DRB to inhibit RNA elongation and arrest RNAPII at 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit V2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit V2</a></li>
 </ul>
 </div>
 </div>
@@ -6744,10 +6744,10 @@ In this method, RNA is first reverse-transcribed using random primers. The RNA c
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA library Prep kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA library Prep kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -6785,8 +6785,8 @@ This method follows the TruSeq RNA sample preparation protocol, in which mRNA is
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-exome.html">TruSeq Exome Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-exome.html">TruSeq Exome Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -6826,8 +6826,8 @@ This method follows the TruSeq RNA sample preparation protocol, in which mRNA is
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded Total RNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded Total RNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -6868,11 +6868,11 @@ In this method, samples are first crosslinked and sonicated. Biotinylated tiling
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA library Prep kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/ribo-zero-rrna-removal-human-mouse-rat.html">Ribo-Zero rRNA Removal Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA library Prep kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/ribo-zero-rrna-removal-human-mouse-rat.html">Ribo-Zero rRNA Removal Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -6922,8 +6922,8 @@ In this method, samples are first crosslinked and sonicated. Biotinylated tiling
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit v2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -6960,9 +6960,9 @@ In this method, samples are first crosslinked and sonicated. Biotinylated tiling
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/ribo-zero-rrna-removal-human-mouse-rat.html">Ribo-Zero rRNA Removal Kit (Human/Mouse/Rat)</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/ribo-zero-rrna-removal-human-mouse-rat.html">Ribo-Zero rRNA Removal Kit (Human/Mouse/Rat)</a></li>
 </ul>
 </div>
 </div>
@@ -6996,7 +6996,7 @@ In this method, samples are first crosslinked and sonicated. Biotinylated tiling
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Preparation Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Preparation Kits</a></li>
 </ul>
 </div>
 </div>
@@ -7036,8 +7036,8 @@ In this method, samples are first crosslinked and sonicated. Biotinylated tiling
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
 </ul>
 </div>
 </div>
@@ -7074,8 +7074,8 @@ In this method, samples are first crosslinked and sonicated. Biotinylated tiling
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
 </ul>
 </div>
 </div>
@@ -7125,10 +7125,10 @@ In this method, samples are first crosslinked and sonicated. Biotinylated tiling
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html" adhocenable="false">TruSeq Small RNA Library Preparation Kits</a></li>
-<li><a adhocenable="false" href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html" target="_blank">TruSeq Stranded total RNA Library prep kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html" adhocenable="false">TruSeq Small RNA Library Preparation Kits</a></li>
+<li><a adhocenable="false" href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html" target="_blank">TruSeq Stranded total RNA Library prep kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -7182,7 +7182,7 @@ In this method, samples are first crosslinked and sonicated. Biotinylated tiling
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA library Prep kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA library Prep kit</a></li>
 </ul>
 </div>
 </div>
@@ -7222,11 +7222,11 @@ In this method, the RNAPII elongation complex is immunoprecipitated, and RNA is 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA library Prep kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/ribo-zero-rrna-removal-human-mouse-rat.html">Ribo-Zero rRNA Removal Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA library Prep kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/ribo-zero-rrna-removal-human-mouse-rat.html">Ribo-Zero rRNA Removal Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -7271,8 +7271,8 @@ In this method, the RNAPII elongation complex is immunoprecipitated, and RNA is 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit V2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit V2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -7313,10 +7313,10 @@ In PARE-Seq, the degraded uncapped mRNA is ligated to 5' adapters containing an 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA library Prep kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA library Prep kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-nano-dna-library-prep-kit.html">TruSeq Nano DNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq-dna-pcr-free-library-prep-kits.html">TruSeq DNA PCR-Free Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -7354,8 +7354,8 @@ First, poly(A)+ RNAs are enriched from total RNA and the caps are removed with T
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit V2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit V2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -7393,7 +7393,7 @@ A nuclear run-on reaction with biotin-NTP and sarkosyl is carried out on nuclear
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
 </ul>
 </div>
 </div>
@@ -7435,7 +7435,7 @@ A nuclear run-on reaction with biotin-NTP and sarkosyl is carried out on nuclear
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
 </ul>
 </div>
 </div>
@@ -7479,8 +7479,8 @@ First, the cells are crosslinked and lysed before DNase I chromatin digestion to
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded Total RNA Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_chip_sample_prep_kit.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded Total RNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_chip_sample_prep_kit.html">TruSeq ChIP Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -7523,8 +7523,8 @@ First, the cells are crosslinked and lysed before DNase I chromatin digestion to
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded Total RNA Library Preparation Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_chip_sample_prep_kit.html">TruSeq ChIP Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_total_rna_library_prep_kit.html">TruSeq Stranded Total RNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_chip_sample_prep_kit.html">TruSeq ChIP Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -7563,7 +7563,7 @@ First, the cells are crosslinked and lysed before DNase I chromatin digestion to
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
 </ul>
 </div>
 </div>
@@ -7600,8 +7600,8 @@ First, the cells are crosslinked and lysed before DNase I chromatin digestion to
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit v2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
 </ul>
 </div>
 </div>
@@ -7650,7 +7650,7 @@ Additional refinements, such as the use of Moloney murine leukemia virus reverse
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
 </ul>
 </div>
 </div>
@@ -7700,7 +7700,7 @@ Additional refinements, such as the use of Moloney murine leukemia virus reverse
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GBR/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GBR/products/truseq_small_rna_sample_prep_kit.html">TruSeq Small RNA Library Preparation Kits</a></li>
 </ul>
 </div>
 </div>
@@ -7735,10 +7735,10 @@ Additional refinements, such as the use of Moloney murine leukemia virus reverse
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit v2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/ribo-zero-gold-rrna-removal-human-mouse-rat.html">Ribo-Zero Gold rRNA Removal Kit</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/phix_control_v3.html">PhiX Sequencing Control V3</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Prep Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/ribo-zero-gold-rrna-removal-human-mouse-rat.html">Ribo-Zero Gold rRNA Removal Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/phix_control_v3.html">PhiX Sequencing Control V3</a></li>
 </ul>
 </div>
 </div>
@@ -7780,8 +7780,8 @@ Additional refinements, such as the use of Moloney murine leukemia virus reverse
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
@@ -7822,7 +7822,7 @@ Capped mRNA molecules are selected by substituting the 5'caps with oligonucleoti
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Prep Kit v2</a></li>
 </ul>
 </div>
 </div>
@@ -7863,8 +7863,8 @@ Poly(A)+ RNA is fragmented and selected for 50–80 nt fragments. RNA fragments 
 
 <h6>Associated kits:</h6>
 <div class="row"><div class="col-sm-6"><ul class="kits solutions">
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
-<li><a href="/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Preparation Kit</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_rna_library_prep_kit_v2.html">TruSeq RNA Library Preparation Kit v2</a></li>
+<li><a href="https://emea.illumina.com/content/illumina-marketing/emea/en_GB/products/truseq_stranded_mrna_library_prep_kit.html">TruSeq Stranded mRNA Library Preparation Kit</a></li>
 </ul>
 </div>
 </div>
